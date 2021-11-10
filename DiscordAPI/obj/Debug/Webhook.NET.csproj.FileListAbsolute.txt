@@ -1,0 +1,6 @@
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\bin\Debug\DiscordAPI.dll
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\bin\Debug\DiscordAPI.pdb
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\obj\Debug\Webhook.NET.csproj.AssemblyReference.cache
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\obj\Debug\Webhook.NET.csproj.CoreCompileInputs.cache
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\obj\Debug\DiscordAPI.dll
+C:\Users\rever\source\repos\DiscordAPI\DiscordAPI\obj\Debug\DiscordAPI.pdb
